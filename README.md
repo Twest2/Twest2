@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **Step forge, an automatic documentation writer.**  
+🔭 &nbsp;I'm currently working on **StepForge, an automatic documentation writer.**  
 🌱 &nbsp;I'm currently learning **DGX server management**
 
 ### 🛠️ Tech Stack
